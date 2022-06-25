@@ -10,7 +10,7 @@ You can also browse my <a href="https://scholar.google.co.in/citations?hl=en&use
 - **CORAL: Contextual Response Retrievability Loss Function for Training Dialog Generation Models**  
   Bishal Santra, **Ravi Ghadia**, Arpit Dwivedi, Manish Gupta, Pawan Goyal  
   *Arxiv Preprint*  
-  [Paper](https://arxiv.org/abs/2204.02306){: .btn} 
+  [Paper](https://arxiv.org/abs/2205.10558){: .btn} 
 
 <br />
 
