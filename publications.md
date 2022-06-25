@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 ---
-https://scholar.google.co.in/citations?hl=en&user=PWJstCUAAAAJ
 You can also browse my <a href="https://scholar.google.co.in/citations?hl=en&user=PWJstCUAAAAJ" target="_blank">Google Scholar profile</a>.
 <br />
 
@@ -13,6 +12,6 @@ You can also browse my <a href="https://scholar.google.co.in/citations?hl=en&use
   *Arxiv Preprint*  
   [Paper](https://arxiv.org/abs/2204.02306){: .btn} 
 
-<br />  -->
+<br />
 
 
